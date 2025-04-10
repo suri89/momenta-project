@@ -1,4 +1,4 @@
-##Momenta - Audio Deepfake Detection Assessment
+
 
 Part 1: Research & Model Selection
 # 1. CLAD (Contrastive Learning for Audio Deepfake Detection)
